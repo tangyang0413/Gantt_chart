@@ -1,3 +1,7 @@
+#说明
+这是一个vue实现甘特图的项目源码提供
+
+
 # gantt_chart
 
 > A Vue.js project
